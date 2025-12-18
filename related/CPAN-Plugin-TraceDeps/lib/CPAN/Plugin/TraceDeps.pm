@@ -1,6 +1,6 @@
 =head1 NAME
 
-CPAN::Plugin::TraceDeps - logging dependecy relations between modules
+CPAN::Plugin::TraceDeps - logging dependency relations between modules
 
 =head1 SYNOPSIS
 
